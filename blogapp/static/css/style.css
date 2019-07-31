@@ -1,0 +1,22 @@
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+body{
+    font-family: 'Hanna', sans-serif;
+}
+
+h1{
+    color: salmon;
+}
+
+h2{
+    color: rgb(56, 56, 56);
+}
+
+h3{
+    color: salmon;
+}
+
+.box{
+    color: black;
+    width: 200px;
+    font-size: 20pt;
+}
