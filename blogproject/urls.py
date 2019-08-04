@@ -18,7 +18,7 @@ from django.urls import path
 import blogapp.views
 import portfolio.views
 from django.conf import settings
-from django.conf.ruls.static import static
+from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
